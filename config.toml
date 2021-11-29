@@ -24,5 +24,6 @@ taxonomies = [{ name = "tags" }]
 
 social_media = [
     { name = "GitHub", url = "https://github.com/LateralComputer" },
+    { name = "Linkedin", url = "https://www.linkedin.com/company/lateral-computer-llc" },
     { name = "hello@lateral.computer", url = "mailto:hello@lateral.computer" },
 ]
