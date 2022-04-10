@@ -8,7 +8,10 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="drawing.svg"
+   sodipodi:docname="logo.svg"
+   inkscape:export-filename="C:\Users\aevyr\code\applicative\docs\logo.png"
+   inkscape:export-xdpi="25.564402"
+   inkscape:export-ydpi="25.564402"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -23,13 +26,13 @@
      inkscape:pagecheckerboard="0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.56044503"
-     inkscape:cx="-75.832594"
-     inkscape:cy="474.62282"
+     inkscape:zoom="2.2417801"
+     inkscape:cx="215.67682"
+     inkscape:cy="197.38778"
      inkscape:window-width="1920"
-     inkscape:window-height="1200"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-height="1171"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
      inkscape:window-maximized="1"
      inkscape:current-layer="g19669" />
   <defs
@@ -53,6 +56,13 @@
        id="g19669"
        transform="matrix(3.5196734,0,0,3.5196734,-37.473137,-46.228754)"
        style="stroke-width:2.25085;stroke-miterlimit:4;stroke-dasharray:none">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:2.26325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         id="rect15219"
+         width="25.965765"
+         height="25.973629"
+         x="11.904356"
+         y="14.387757" />
       <text
          xml:space="preserve"
          style="font-size:10.6416px;line-height:1.25;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans';stroke-width:2.26325;stroke-miterlimit:4;stroke-dasharray:none"
@@ -86,13 +96,6 @@
          height="0.88903522"
          x="16.012751"
          y="35.27718" />
-      <rect
-         style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:2.26325;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         id="rect15219"
-         width="25.965765"
-         height="25.973629"
-         x="11.904356"
-         y="14.387757" />
     </g>
   </g>
 </svg>
